@@ -42,10 +42,12 @@ pip install streamlit tensorflow numpy pandas pillow
 # Run the Application
 
 streamlit run app.py
-Project Structure
-├── app.py
-├── best_cnn_multiclass.h5
-└── README.md
+
+# Project Structure
+
+- app.py
+- best_cnn_multiclass.h5
+- README.md
 
 # Disclaimer
 
